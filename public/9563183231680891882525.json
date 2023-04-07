@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086376777008",
+    "project_id": "cara-pinjam-uang-di-shopee",
+    "storage_bucket": "cara-pinjam-uang-di-shopee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086376777008:android:514b58bde6c30d5975e4f5",
+        "android_client_info": {
+          "package_name": "com.carapinjamuangdishopee.pinjolcraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086376777008-ehsu3n3jrrt6u8lv52eftd4sqf7499aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfaaXhUWpw4TM4sWiKgw-Ee79KRzs_mgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086376777008-ehsu3n3jrrt6u8lv52eftd4sqf7499aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
